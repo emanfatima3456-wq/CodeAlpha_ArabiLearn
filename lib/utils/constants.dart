@@ -17,7 +17,7 @@ class AppColors {
 class AppStrings {
   static const String appName = 'ArabiLearn';
   static const String tagline = 'Learn Arabic the Smart Way';
-  static const String cohereApiKey = 'g1qfN2Mp3tOH2q37ObnPLgdGqM2jpdKigq4toJd2';
+  static const String cohereApiKey = 'YOUR_COHERE_API_KEY_HERE';
 }
 
 class AppTextStyles {
