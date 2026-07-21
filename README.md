@@ -68,22 +68,24 @@ flutter run
 | 💎 Legend | Earn 500 XP |
 
 ## 📁 Project Structure
+
+```
 lib/
 ├── data/
-│ └── arabic_data.dart # Arabic words database
+│   └── arabic_data.dart
 ├── screens/
-│ ├── splash_screen.dart # Splash screen with animation
-│ ├── onboarding_screen.dart # App introduction screens
-│ ├── language_selection_screen.dart
-│ ├── home_screen.dart # Main dashboard
-│ ├── vocabulary_screen.dart # Word categories
-│ ├── flashcard_screen.dart # 3D flip flashcards
-│ ├── quiz_screen.dart # Interactive quiz
-│ ├── progress_screen.dart # Progress & achievements
-│ └── ai_tutor_screen.dart # AI powered tutor
+│   ├── splash_screen.dart
+│   ├── onboarding_screen.dart
+│   ├── language_selection_screen.dart
+│   ├── home_screen.dart
+│   ├── vocabulary_screen.dart
+│   ├── flashcard_screen.dart
+│   ├── quiz_screen.dart
+│   ├── progress_screen.dart
+│   └── ai_tutor_screen.dart
 └── utils/
-└── constants.dart # Colors, strings, themes
----
+    └── constants.dart
+```
 
 ## 📸 Screenshots
 
